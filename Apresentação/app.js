@@ -1,0 +1,1 @@
+console.log(" Nome: Thiago Ferreira \n Idade: 31 anos \n Cidade Natal: Florianopolis")
