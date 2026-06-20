@@ -1,4 +1,8 @@
-const promp = require('prompt-sync')();
+const prompt = require('prompt-sync')();
 
-let username = prompt("digite seu nome");
-console.log("Olá" + username + "Seja bem-vindo");
+let numero1 = prompt("digite o primeiro numero: ");
+let numero2 = prompt("digite o segundo numero: ");
+let soma = parseFloat(numero1) + parseFloat(numero2);
+
+
+console.log(numero1 + " + " + numero2 + " = " + soma);
