@@ -1,0 +1,5 @@
+    console.log("Olá, mundo!")
+    console.log("Eu me chamo Thiago Ferreira")
+    console.log("Eu tenho 31 anos")
+    console.log("Eu sou de Florianópolis")
+    console.log("Eu gosto de programar em JavaScript")
